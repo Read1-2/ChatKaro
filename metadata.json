@@ -1,0 +1,6 @@
+{
+  "name": "ChatKaro – Chat, Have Fun & Earn",
+  "description": "Modern, hilarious, and gamified real-time chat platform where every conversation counts toward rewards, achievements, and non-stop laughter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
